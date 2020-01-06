@@ -2,31 +2,6 @@ The core of the ecosystem is his main part. All others features need the core to
 
 It gets also many features that you can use in your project !
 
-## Download it
-
-### Last version
-
-Youc can integrate it in your website with the cdn : 
-
-`<script src="http://easylife.ovh/cdn/core.js"></script>`
-
-Or the minified version : 
-
-`<script src="http://easylife.ovh/cdn/core.min.js"></script>`
-
-### A specific version
-
-Vou can also choose your version like
-
-`<script src="http://easylife.ovh/cdn/cor#1.0.0e.js"></script>`
-
-`<script src="http://easylife.ovh/cdn/core#1.0.0.min.js"></script>`
-
-But it you don't specify it, it will be the last version !
-
-Version available : 
-* 1.0.0
-
 ## Features
 
 ### Class **Emitter**
