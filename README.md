@@ -1,7 +1,3 @@
-The core of the ecosystem is his main part. All others features need the core to work.
-
-It gets also many features that you can use in your project !
-
 ## Features
 
 ### Class **Emitter**
