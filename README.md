@@ -14,10 +14,3 @@ You can listen it as many times that you want.
 
 Finally, you can pipe it with `emitter.pipe(yourfunction(data))`
 And Your function **must** return the data because the value returned will became the new value of the data emitted.
-
-To Recap : 
-
-* emit (data)
-* data = pipe1(data) -> data = pipe2(data) -> ...
-* listen1(data) -> listen2(data) -> ...
- 
